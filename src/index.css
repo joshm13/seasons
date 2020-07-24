@@ -1,0 +1,17 @@
+.location-error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15em;
+}
+
+.error-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10em;
+}
+
+.error {
+  background-color: gray;
+}
